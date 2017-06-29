@@ -1,3 +1,3 @@
 # misc_stuf
-<a href="https://asciinema.org/a/UoMFAlwxJd1ybhTAEGRrmKAUQ" target="_blank"><img src="https://asciinema.org/a/UoMFAlwxJd1ybhTAEGRrmKAUQ.png" /></a>
+[![asciicast](https://asciinema.org/a/UoMFAlwxJd1ybhTAEGRrmKAUQ.png)](https://asciinema.org/a/UoMFAlwxJd1ybhTAEGRrmKAUQ)
 
